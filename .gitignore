@@ -1,0 +1,69 @@
+
+# Unity - arquivos e pastas gerados automaticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Cache e dados locais do Unity
+MemoryCaptures/
+Recordings/
+
+# IDEs e editores
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio Code
+.vscode-test/
+
+# JetBrains Rider
+*.sln.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários e backups
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+*.swo
+
+# Crash dumps
+sysinfo.txt
+*.stackdump
+
+# Builds compilados
+*.apk
+*.aab
+*.unitypackage
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados pelo Unity Cloud
+.collabignore
