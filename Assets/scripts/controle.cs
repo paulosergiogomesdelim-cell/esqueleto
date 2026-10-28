@@ -15,12 +15,16 @@ public class SkeletonPlayer : MonoBehaviour
     private Animator animator;
     private CharacterController controller;
     private Vector3 velocidadeVertical;
-
+ namespace.
     void Start()
-    {
-        animator = GetComponent<Animator>();
-        controller = GetComponent<CharacterController>();
-    }
+    
+    
+
+
+
+
+
+
 
     void Update()
     {
